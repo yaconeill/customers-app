@@ -1,0 +1,91 @@
+{
+  "customers": [
+    {
+      "id": "27000000",
+      "dni": "27000000",
+      "name": "CARLOTA PEREZ",
+      "age": 38
+    },
+    {
+      "id": "33000000",
+      "dni": "33000000",
+      "name": "LUIS MARTINEZ",
+      "age": 32
+    },
+    {
+      "dni": "999",
+      "name": "JOSELE",
+      "age": 21,
+      "id": "ks2oz2f"
+    },
+    {
+      "id": "ogAU5OV",
+      "dni": "27000005",
+      "name": "CARLOTA PEREZ",
+      "age": 19,
+      "user": {
+        "permissions": [
+          "CUSTOMER_LIST",
+          "CUSTOMER_VIEW",
+          "CUSTOMER_EDIT"
+        ]
+      }
+    },
+    {
+      "id": "EudV7Ql",
+      "dni": "32456346",
+      "name": "CARLOTA PEREZ",
+      "age": 4,
+      "user": {
+        "permissions": [
+          "CUSTOMER_LIST",
+          "CUSTOMER_VIEW",
+          "CUSTOMER_EDIT"
+        ]
+      }
+    },
+    {
+      "id": "s4jcvky",
+      "dni": "546",
+      "name": "DFGT",
+      "age": 1,
+      "user": {
+        "permissions": [
+          "CUSTOMER_LIST",
+          "CUSTOMER_VIEW",
+          "CUSTOMER_EDIT"
+        ]
+      }
+    },
+    {
+      "id": "1oPMA9q",
+      "dni": "27000000",
+      "name": "PIPAS FACUNDO",
+      "age": 2,
+      "user": {
+        "permissions": [
+          "CUSTOMER_LIST",
+          "CUSTOMER_VIEW",
+          "CUSTOMER_EDIT"
+        ]
+      }
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
